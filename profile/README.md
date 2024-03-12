@@ -27,4 +27,4 @@ Please feel free to reach out to any of our dedicated developers directly on X(T
  - [Iano Njuguna](https://twitter.com/IanoNjuguna)(@IanoNjuguna)
 
 __License__<br>
-__SportyStats__ is a proprietary product of __SportyStats LLC__. All rights reserved._(Well, it will be, soon)_
+__SportyStats__ is a proprietary product of __SportyStats__. All rights reserved._(Well, it will be, soon)_
