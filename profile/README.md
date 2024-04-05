@@ -21,10 +21,9 @@ SportyStats is currently in development and will be launched soon. Stay tuned fo
 
 __Feedback__<br>
 We deeply value your feedback and suggestions for enhancing __SportyStats__. Your insights are crucial in shaping the future of our product and ensuring that we meet the needs of our users effectively.<br>
-Please feel free to reach out to any of our dedicated developers directly on X(Twitter):
+Please feel free to reach out to the dedicated developer directly on X(Twitter):
 
  - [Brian Mwangi](https://twitter.com/Brianmwangi_)(@Brianmwangi_)
- - [Iano Njuguna](https://twitter.com/IanoNjuguna)(@IanoNjuguna)
 
 __License__<br>
 __SportyStats__ is a proprietary product of __SportyStats__. All rights reserved._(Well, it will be, soon)_
